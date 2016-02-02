@@ -1,12 +1,9 @@
 # leaflet.gisfile.js
 L.GISFileAPI turns GISFile API box (http://gisfile.com/api/1.0/doc/jsonp/) data into a Leaflet layer.
 
-# gisfile.js
-Gisfile JavaScript API (Leaflet Plugin)
-
 <p>
-This is the Gisfile Jsonp Javascript API, version 1.x. It's built as a <a href="http://leafletjs.com/">Leaflet</a>
-plugin to dynamic uploading of the data into a Leaflet layer. You can <a href="http://gisfile.com/api/1.0/doc/jsonp/">read more about the Gisfile JSONP API</a>
+This is the L.GISFileAPI, version 1.x. It's built as a <a href="http://leafletjs.com/">Leaflet</a>
+plugin to dynamic uploading of the data into a Leaflet layer. You can <a href="http://gisfile.com/api/1.0/doc/jsonp/">read more about the Gisfile JSONP</a>
 </p>
 
 <h2>
